@@ -1,3 +1,3 @@
-void greet (int a){
-printf("%d\n", a);
+void greet (char[]){
+printf("%d\n", "Greetings!");
 }
