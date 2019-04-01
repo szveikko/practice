@@ -1,13 +1,8 @@
 count(){
-<<<<<<< HEAD
-int age= 19;
 int month = 02;
-printf("%d", month);
-}
-=======
 int age = 19;
 char* parameter = "new_parameter";
-printf("%d, %s", age, parameter);
+printf("%d, %s, %d", age, parameter, month);
 }
 
->>>>>>> a55d8f2c13c81be3b7f9a1374e1bd4ceb3caf72a
+
