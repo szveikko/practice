@@ -3,6 +3,8 @@ int month = 02;
 int age = 19;
 char* parameter = "new_parameter";
 printf("%d, %s, %d", age, parameter, month);
+printf("TWOPARAM")
 }
+
 
 
