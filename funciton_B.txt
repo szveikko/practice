@@ -3,4 +3,5 @@ int month = 02;
 int age = 19;
 char* parameter = "Counting the countless parameter";
 printf("%d, %s, %d", age, parameter, month);
+printf("kurva geci")
 }
