@@ -1,2 +1,4 @@
-TEAM_ASD
-PRINT_PYTHON
+print_method(team_name[],coding_language[])
+{
+	printf("%s %s","TEAM_ASD","PRINT_PYTHON");
+}
