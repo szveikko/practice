@@ -1,8 +1,6 @@
 count(){
 int month = 02;
 int age = 19;
-char* parameter = "new_parameter";
+char* parameter = "Counting the countless parameter";
 printf("%d, %s, %d", age, parameter, month);
 }
-
-
