@@ -1,4 +1,6 @@
 count(){
 int age = 19;
-printf("%s", age);
+char* parameter = "new_parameter";
+printf("%d, %s", age, parameter);
 }
+
