@@ -1,0 +1,4 @@
+count(){
+int age = 19;
+printf("%s", age);
+}
